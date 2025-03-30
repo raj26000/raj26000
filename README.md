@@ -1,6 +1,6 @@
 # <p align='center'> Hi, I'm [Rajdeep Agrawal](https://www.linkedin.com/in/rajdeep-agrawal-aa3947199/) :wave: </p>
 
-A brief introduction about myself - I'm **Rajdeep Agrawal**, a '22 B.Tech Graduate in **Engineering Physics** from the **Indian Institute of Technology, Hyderabad**. I currently work as a Data Scientist at **Neuron7.ai**, focussing primarily on **NLP** based applications. Passionate about building products that leverage data (in structured or unstructured form) to automate processes, eliminate redundancies and enable companies serve their customers and clients better.
+A brief introduction about myself - I'm **Rajdeep Agrawal**, a '22 B.Tech Graduate in **Engineering Physics** from the **Indian Institute of Technology, Hyderabad**. I currently work as a Machine Learning Engineer at **Observe.AI**, contributing to LLM-powered RnD projects along with service and system reliability initiatives. Passionate about building products that leverage data (in structured or unstructured form) to automate processes, eliminate redundancies, and enable companies to serve their customers and clients better.
 <!---
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=raj26000&label=Profile%20views&color=6805D3&style=flat" alt="Rajdeep" /> </p></h3>
 -->
